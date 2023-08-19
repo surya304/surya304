@@ -1,9 +1,10 @@
 <h1 align="center">Hi :wave:, I'm Sai Surya Kalagani</h1>
 <h3 align="center">I am Full stack developer who worked more than 4 years on MERN Stack</h3>
 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya304&label=Profile%20views&color=0e75b6&style=flat" alt="surya304" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surya304" alt="surya304" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
