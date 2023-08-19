@@ -1,6 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Sai Surya Kalagani</h1>
 <h3 align="center">I am Full stack developer who worked more than 4 years on MERN Stack</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1wO8rKtlXDwQRj7UECKi-O9pSsbLHK10a/view?usp=sharing">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya304&label=Profile%20views&color=0e75b6&style=flat" alt="surya304" /> </p>
 
