@@ -16,8 +16,6 @@
 
 - :mailbox: How to reach me **ksaisurya304@gmail.com**
 
-- :zap: Fun fact **I almost Quit 20 times before i started Coding 5 years ago .**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/surya304" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/surya304" height="30" width="40" /></a>
