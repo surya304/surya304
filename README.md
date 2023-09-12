@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- :seedling: I’m currently learning **Android Development**
+- :seedling: I’m currently Working on **My Portfolio**
 
 - :dancers: I’m looking to collaborate on **Front End and Backend Projects**
 
