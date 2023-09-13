@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Sai Surya Kalagani</h1>
-<h3 align="center">I am Full stack developer who worked more than 4 years on MERN Stack Developing SAAS based Web Applications</h3>
+<h3 align="center">I am an Front end developer who worked more than 4 years in startups Developing Developing SAAS based Web Applications </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya304&label=Profile%20views&color=0e75b6&style=flat" alt="surya304" /> </p>
