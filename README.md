@@ -26,6 +26,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya304&show_icons=true&locale=en&layout=compact" alt="surya304" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya304&show_icons=true&locale=en" alt="surya304" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya304&" alt="surya304" /></p>
