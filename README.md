@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Sai Surya Kalagani</h1>
-<h3 align="center">I am a Front end developer who worked for more than four years in startup Developing Developing SAAS based Web Applications </h3>
+<h3 align="center">I am a Front End Developer with over four years of experience in developing SaaS-based web applications. Currently living in Canada and actively seeking Front End development opportunities. </h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surya304&label=Profile%20views&color=0e75b6&style=flat" alt="surya304" /> </p>
@@ -8,7 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- :seedling: I’m currently Working on **My Portfolio**
+- :seedling: I’m currently Looking for **Front End Developer Opportunities**
+
+- :computer: All of my projects are available at [https://saisurya.netlify.app/]
 
 - :dancers: I’m looking to collaborate on **Front End and Backend Projects**
 
